@@ -1,0 +1,1 @@
+from bb89.joke import joke

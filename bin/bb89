@@ -1,0 +1,4 @@
+#!/usr/bin/env python
+
+import bb89
+print(bb89.joke())
